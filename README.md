@@ -1,5 +1,6 @@
 # Simple NestJS Example
 
+Repo to learn some NestJS concepts and practices 🔎
 
 ## Interesting practices/concepts :scroll:
 
