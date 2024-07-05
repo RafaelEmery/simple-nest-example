@@ -104,4 +104,4 @@ Nest is [MIT licensed](LICENSE).
 
 ---
 
-Made for studies purpose by RafaelEmery
+Made by RafaelEmery for studies
